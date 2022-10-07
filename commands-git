@@ -5,3 +5,5 @@ Les trois commandes de push :
 git add 'nom du fichier'
 git commit -m 'msg du commit'
 git push 
+
+git pull
