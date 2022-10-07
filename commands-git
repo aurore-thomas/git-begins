@@ -7,3 +7,11 @@ git commit -m 'msg du commit'
 git push 
 
 git pull
+
+Pour créer une branche : 
+git branch 'nom_de_la_branche"
+
+Pour switcher entre les branches : 
+git checkout 'nom_de_la_branche'
+
+
